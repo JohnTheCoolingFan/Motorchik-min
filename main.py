@@ -9,7 +9,6 @@ bot = commands.Bot(command_prefix=commands.when_mentioned_or('$!'))
 @bot.event
 async def on_ready():
     print('Logged in as {0.user}'.format(bot))
-    #await GuildConfig.check(bot)
 
 bot.load_extension('fun_commands')
 bot.load_extension('greetings')
