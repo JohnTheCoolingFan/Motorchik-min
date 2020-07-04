@@ -1,0 +1,11 @@
+{
+    "discriminator": 6411,
+    "name": "John The Cooling Fan",
+    "notification_categories": [
+        "all",
+        "guild-levels",
+        "bot-levels"
+    ],
+    "notifications": "private",
+    "xp": 3381
+}

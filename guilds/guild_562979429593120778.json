@@ -1,0 +1,203 @@
+{
+    "commands": {
+        "add_xp": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "advanced_test": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "ban": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "clearchat": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "command": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "config": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "github": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "gitlab": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "guten": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "hello": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "hello_german": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "hello_russian": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "help": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "hostinfo": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "info_channels": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "is_alive_eng": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "is_alive_rus": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "modlist": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "mods_statistics": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "new_mods_statistics": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "newer_mods_statistics": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "ping": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "report": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "rickroll": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "say": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "say_dm": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "source": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "spin": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "test": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "udod_communist": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "userconfig": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        },
+        "userinfo": {
+            "blacklist": [],
+            "enabled": true,
+            "whitelist": []
+        }
+    },
+    "default_roles": [],
+    "info_channels": {
+        "log": {
+            "channel_id": 562981365063352370,
+            "enabled": true
+        },
+        "welcome": {
+            "channel_id": 1234,
+            "enabled": false
+        }
+    },
+    "levels": {},
+    "members": {
+        "145181769203712000": 19,
+        "162255871210946560": 571,
+        "196160375593369600": 6401,
+        "278942045412917260": 149,
+        "295184051269009409": 6,
+        "310464460559089672": 1455,
+        "322754149760630784": 262,
+        "323482196167884801": 20,
+        "343418440423309314": 105,
+        "383236389916901377": 1,
+        "420627991752867851": 40,
+        "421960973377863690": 313,
+        "434346040854970378": 10,
+        "437509508609343498": 126,
+        "459726660359553025": 861,
+        "468666858690707457": 47,
+        "478238098757779466": 324,
+        "489145337701859328": 20,
+        "544777373065936898": 1,
+        "546225782742056963": 175,
+        "574581459361202196": 5924,
+        "638768970324770816": 106,
+        "687386074535821431": 124,
+        "707430190036549682": 1
+    },
+    "name": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f \u041a\u0435\u0439\u0432\u0430 \u0414\u0436\u043e\u043d\u0441\u043e\u043d\u0430"
+}
