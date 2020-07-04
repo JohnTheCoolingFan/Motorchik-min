@@ -1,0 +1,13 @@
+token.txt
+config.json
+.mypy_cache
+*Tagbar*
+__pycache__
+.idea
+guilds/*
+!guilds/guild_example.json
+users/*
+!users/user_example.json
+xplog/*
+!xplog/log_example.txt
+latest_connection.txt
